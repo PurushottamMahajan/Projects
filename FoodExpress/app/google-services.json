@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054110450218",
+    "project_id": "foodxpress-6be07",
+    "storage_bucket": "foodxpress-6be07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054110450218:android:150b87017f352ad15ff953",
+        "android_client_info": {
+          "package_name": "com.example.foodxpress"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOQX2TfMnntlkVk-VoUVJssHueD6-C7cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
